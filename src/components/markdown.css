@@ -1,0 +1,12 @@
+.container{
+    border: 12px;
+    border-radius: 6px;
+    border-color: aqua;
+    background-color: #ccc;
+    padding: 50px;
+    width: 548px;
+    height: 290px;
+}
+.preview{
+    font-size: 0.875rem;
+}
